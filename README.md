@@ -1,5 +1,5 @@
 
-![Welcome](/Bank_Project.png?raw=true)
+![Welcome](/Bank_Project_cover.png?raw=true)
 
 
 # Bank_Project
